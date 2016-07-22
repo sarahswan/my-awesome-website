@@ -5,8 +5,8 @@
 - [ ]a check box!
 
 ## Let's make an HTML file!
-- [ ] Create index.HTML
-- [ ] Put hello world
-- [ ] Add bootstrap
-- [ ] Add buttons
-- [ ] Done
+- [x] Create index.HTML
+- [x] Put hello world
+- [x] Add bootstrap
+- [x] Add buttons
+- [x] Done
